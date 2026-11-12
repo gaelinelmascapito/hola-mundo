@@ -7,6 +7,7 @@ Este repo lo he hecho solo como práctica, nada serio. Los proyectos serios vend
 ## Lenguajes probados hasta ahora:
 - Python
 - C
+- C#
 - JavaScript
 - Rust
 
