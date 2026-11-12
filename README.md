@@ -9,7 +9,7 @@ Este repo lo he hecho solo como práctica, nada serio. Los proyectos serios vend
 - C
 - JavaScript
 
-# Lenguajes que probaré:
+## Lenguajes que probaré:
 - Java
 - Go
 - Rust
