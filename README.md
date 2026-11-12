@@ -12,10 +12,10 @@ Este repo lo he hecho solo como práctica, nada serio. Los proyectos serios vend
 - Rust
 - Java
 - Kotlin
+- C++
 
 ## Lenguajes que probaré:
 - Swift
 - Go
 - Dart
-- C++
 - Ruby
